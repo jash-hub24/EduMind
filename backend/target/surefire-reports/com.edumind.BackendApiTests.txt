@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.edumind.BackendApiTests
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.588 s -- in com.edumind.BackendApiTests
